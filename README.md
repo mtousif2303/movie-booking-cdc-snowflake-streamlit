@@ -74,6 +74,16 @@ This  demonstrates a production-ready **Change Data Capture (CDC)** solution usi
               └──────────────────────┘
 ```
 
+## Analytics dashboard
+
+<img width="2874" height="1758" alt="image" src="https://github.com/user-attachments/assets/24691e50-297d-4afb-ae35-406a55a272c9" />
+
+The Dynamic silver and Gold layer tables
+
+<img width="2968" height="1762" alt="image" src="https://github.com/user-attachments/assets/7f7272fc-934b-4070-8673-6b0f7f645851" />
+
+
+
 ### Layer Architecture
 
 ```
