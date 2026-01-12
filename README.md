@@ -368,7 +368,6 @@ Latency │
 - **Key Metrics**: Bookings, revenue, active/lost revenue
 - **Visualizations**: Bar charts, pie charts, performance tables
 - **Export**: CSV download with timestamps
-
 ---
 
 ## 🚀 Quick Start
@@ -470,7 +469,6 @@ cancelled_bookings            INT
 cancellation_rate_percent     NUMBER
 -- Plus category breakdowns and metrics
 ```
-
 ---
 
 ## 📈 Dashboard
